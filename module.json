@@ -15,27 +15,6 @@
       "name": "zgiuricich"
     }
   ],
-  "relationships": {
-    "systems": [
-      {
-        "id": "dnd5e",
-        "type": "system",
-        "compatibility": {
-          "minimum": "2.0.3"
-        }
-      }
-    ]
-  },
-  "esmodules": [],
-  "scripts": [],
-  "styles": [],
-  "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "languages/en.json"
-    }
-  ],
   "packs": [
     {
       "name": "blood-witch",

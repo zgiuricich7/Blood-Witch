@@ -16,7 +16,15 @@
     }
   ],
   "relationships": {
-    "systems": ["dnd5e"]
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "2.0.3"
+        }
+      }
+    ]
   },
   "esmodules": [],
   "scripts": [],

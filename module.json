@@ -1,0 +1,52 @@
+{
+  "id": "blood-witch",
+  "title": "Blood Witch",
+  "description": "Implementation of the Blood Witch homebrew class for D&D 5E",
+  "version": "This is auto replaced",
+  "library": "false",
+  "manifestPlusVersion": "1.2.0",
+  "compatibility": {
+    "minimum": 10,
+    "verified": 10,
+    "maximum": 11
+  },
+  "authors": [
+    {
+      "name": "zgiuricich"
+    }
+  ],
+  "relationships": {
+    "systems": ["dnd5e"]
+  },
+  "esmodules": [],
+  "scripts": [],
+  "styles": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    }
+  ],
+  "packs": [
+    {
+      "name": "blood-witch",
+      "label": "Blood Witch",
+      "path": "packs/blood-witch.db",
+      "type": "Item",
+      "system": "dnd5e",
+      "module": "blood-witch"
+    }
+  ],
+  "url": "This is auto replaced",
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced",
+  "license": "LICENSE",
+  "readme": "README.md",
+  "media": [
+    {
+      "type": "icon",
+      "url": "https://avatars2.githubusercontent.com/u/71292812?s=400&u=ccdb4eeb7abf551ca8f314e5a9bfd0479a4d3d41&v=4"
+    }
+  ]
+}

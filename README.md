@@ -280,4 +280,179 @@ Your Spread Curse feature gains the following benefits:
 
 ## Blood Witch Spell List
 
+_Spells marked with \* are described after the spell list_
+
+### Cantrips
+
+- Chill Touch
+- Mage Hand
+- Fire Bolt
+- Thaumaturgy
+- Spare the Dying
+- Produce Flame
+- Create Bonfire
+- Green Flame Blade
+- Friends
+- Blade Ward
+- Shape Water
+- Thunderclap
+- Control Flames
+- Magic Stone
+- Resistance
+
+### 1st Level
+
+- Absorb Elements
+- Animal Friendship
+- Bane
+- Bless
+- Beast Bond
+- Burning Hands
+- Cause Fear
+- Command
+- Cure Wounds
+- Detect Magic
+- Disguise Self
+- Faerie Fire
+- False Life
+- Find Familiar
+- Frost Fingers
+- Healing Word
+- Hex
+- Mage Armor
+- Jump
+- Longstrider
+- Ray of Sickness
+- Shield
+- Witch Bolt
+- Wrathful Smite
+
+### 2nd Level
+
+- Alter Self
+- Animal Messenger
+- Augury
+- Barkskin
+- Blindness/Deafness
+- Calm Emotions
+- Continual Flame
+- Enhance Ability
+- Enlarge/Reduce
+- Flame Blade
+- Flock of Familiars
+- Heat Metal
+- Hold Person
+- Invisibility
+- Protection from Poison
+- Ray of Enfeeblement
+- Scorching Ray
+- Suggestion
+- Wither and Bloom
+
+### 3rd Level
+
+- Animate Dead
+- Bestow Curse
+- Conjure Animals
+- Dispel Magic
+- Fear
+- Feign Death
+- Fireball
+- Haste
+- Life Transference
+- Lightning Bolt
+- Mass Healing Word
+- Motivational Speech
+- Revivify
+- Slow
+- Summon Fey
+- Summon Lesser Demon
+- Summon Shadowspirit
+- Summon Undead
+- Vampiric Touch
+
+### 4th Level
+
+- Aura of Life
+- Aura of Purity
+- Charm Monster
+- Compulsion
+- Death Ward
+- Dominate Beast
+- Elemental Bane
+- Fire Shield
+- Greater Invisibility
+- Locate Creature
+- Polymorph
+- Shadow of Moil
+- Sickening Radiance
+- Summon Aberration
+- Summon Greater Demon
+- Wall of Fire
+
+### 5th Level
+
+- Awaken
+- Cone of Cold
+- Contagion
+- Danse Macabre
+- Dominate Person
+- Flame Strike
+- Hold Monster
+- Immolation
+- Infernal Calling
+- Mass Cure Wounds
+- Negative Energy Flood
+- Planar Binding
+- Raise Dead
+- Telepathic Bond
+
+### 6th Level
+
+- Chain Lightning
+- Circle of Death
+- Conjure Fey
+- Create Homunculus
+- Harm
+- Heal
+- Mass Suggestion
+- Summon Fiend
+- True Seeing
+
+### 7th Level
+
+- Create Magen
+- Delayed Blast Fireball
+- Etherealness
+- Finger of Death
+- Fire Storm
+- Power WOrd Pain
+- Regenerate
+- Resurrection
+- Simulacrum
+
+### 8th Level
+
+- Abi-Dalzim's Horrid Wilting
+- Animal Shapes
+- Clone
+- Dominate Monster
+- Glibness
+- Incendiary Cloud
+- Power Word Stun
+- Telepathy
+
+### 9th Level
+
+- Imprisonment
+- Invulnerability
+- Mass Heal
+- Mass Polymorph
+- Power Word Heal
+- Power Word Kill
+- Shapechange
+- True Polymorph
+
+## New Spells
+
 Under Development
